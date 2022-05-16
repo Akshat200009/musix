@@ -1,0 +1,22 @@
+body
+{
+    font-style:italic;
+
+    margin: 0px 12px;
+    background: url('images/audience-1850022.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+
+#logo
+{
+    height:100px;
+    width:100px;
+    border-radius:900px;
+}
+.heading
+{
+    color:white;
+}
